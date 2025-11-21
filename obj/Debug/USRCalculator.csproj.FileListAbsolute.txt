@@ -1,0 +1,7 @@
+D:\GRSU\USRCalculator\bin\Debug\USRCalculator.exe.config
+D:\GRSU\USRCalculator\bin\Debug\USRCalculator.exe
+D:\GRSU\USRCalculator\bin\Debug\USRCalculator.pdb
+D:\GRSU\USRCalculator\obj\Debug\USRCalculator.csproj.AssemblyReference.cache
+D:\GRSU\USRCalculator\obj\Debug\USRCalculator.csproj.CoreCompileInputs.cache
+D:\GRSU\USRCalculator\obj\Debug\USRCalculator.exe
+D:\GRSU\USRCalculator\obj\Debug\USRCalculator.pdb

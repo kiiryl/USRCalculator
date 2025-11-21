@@ -63,7 +63,6 @@ namespace USRCalculator
         // Операции
         public string Addition(double a, double b)
         {
-
             return $"{a + b}";
         }
         public string Subtraction(double a, double b)

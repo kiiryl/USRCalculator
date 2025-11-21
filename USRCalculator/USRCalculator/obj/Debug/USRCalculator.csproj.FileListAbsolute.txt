@@ -1,8 +1,0 @@
-D:\ЛЕКЦИИ\Программирование\ЛАБЫ\usrCalculator\USRCalculator\USRCalculator\USRCalculator\bin\Debug\USRCalculator.exe.config
-D:\ЛЕКЦИИ\Программирование\ЛАБЫ\usrCalculator\USRCalculator\USRCalculator\USRCalculator\bin\Debug\USRCalculator.exe
-D:\ЛЕКЦИИ\Программирование\ЛАБЫ\usrCalculator\USRCalculator\USRCalculator\USRCalculator\bin\Debug\USRCalculator.pdb
-D:\ЛЕКЦИИ\Программирование\ЛАБЫ\usrCalculator\USRCalculator\USRCalculator\USRCalculator\obj\Debug\USRCalculator.csproj.AssemblyReference.cache
-D:\ЛЕКЦИИ\Программирование\ЛАБЫ\usrCalculator\USRCalculator\USRCalculator\USRCalculator\obj\Debug\USRCalculator.csproj.CoreCompileInputs.cache
-D:\ЛЕКЦИИ\Программирование\ЛАБЫ\usrCalculator\USRCalculator\USRCalculator\USRCalculator\obj\Debug\USRCalculator.exe
-D:\ЛЕКЦИИ\Программирование\ЛАБЫ\usrCalculator\USRCalculator\USRCalculator\USRCalculator\obj\Debug\USRCalculator.pdb
-D:\ЛЕКЦИИ\Программирование\ЛАБЫ\usrCalculator\USRCalculator\USRCalculator\USRCalculator\obj\Debug\USRCalculator.exe.config
